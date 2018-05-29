@@ -1,0 +1,15 @@
+
+model/lstm_model_0/checkpoint
+atec_anti_fraud_test_a.csv
+*.csv
+model/lstm_model_0/events.out.tfevents.1527600209.DESKTOP-RVFCF39
+model/lstm_model_0/graph.pbtxt
+model/lstm_model_0/model.ckpt-1.data-00000-of-00001
+model/lstm_model_0/model.ckpt-1.index
+model/lstm_model_0/model.ckpt-1.meta
+model/lstm_model_1/checkpoint
+model/lstm_model_1/events.out.tfevents.1527600211.DESKTOP-RVFCF39
+model/lstm_model_1/graph.pbtxt
+model/lstm_model_1/model.ckpt-1.data-00000-of-00001
+model/lstm_model_1/model.ckpt-1.index
+model/lstm_model_1/model.ckpt-1.meta
